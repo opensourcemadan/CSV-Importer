@@ -1,6 +1,6 @@
 -- sql file to create database and table
 
-CREATE DATABASE `mindarc_assessment`;
+CREATE DATABASE `mindarc_assessment` CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 use `mindarc_assessment`;
 
 CREATE TABLE `original_data` (
